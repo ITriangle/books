@@ -12,7 +12,7 @@
 - 语言(主次按照先后顺序)：python，java，scala，c++
     - 基础语法
     - 进阶部分：python的进阶部分
-- 算法：leetcode刷题
+- 算法：leetcode
 - 分布式：
 - 大数据组件(主次按照先后顺序)：
     - hdfs
